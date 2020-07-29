@@ -1,4 +1,4 @@
-# Ionic Cadastro
+# Ionic Cadastro de Funcionários  
 Sistema de cadastro de prestadores de serviços utilizando o Ionic, Cordova e SQLite.  
 Desenvolvido para trabalho de Tópicos Especiais de Informática: Aplicações Híbridas.  
 These are Cordova resources. You can replace icon.png and splash.png and run  
